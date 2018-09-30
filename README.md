@@ -1,7 +1,8 @@
 # AgriculturalScienceAndTechnology
-This is a module about agriculture and technology, and the first original module I made.
+This is a vanilla mod of minecraft versions of 1.13.1 or higher.\
+It is related to agriculture and contains some original machines and metal parts.\
+This page provides a download of its historical version and some related information.
 
-Here is the production version of this project
 # 农业科技
 这是一个和农业科技有关的原版模组，这也是我制作的第一个原版模组。
 
